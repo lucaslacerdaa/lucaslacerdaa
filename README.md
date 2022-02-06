@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Opa, tudo bem? 👋⚡
+<!--## Opa, tudo bem? 👋⚡-->
  <div>
   <a href="https://github.com/lucaslacerdaa/">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslacerdaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
