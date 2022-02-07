@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  <a href="https://www.youtube.com/channel/UCMJFGhrSssePHdyFANyhLXQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
  
- <a href = "lucaslacerda.jlbl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:lucaslacerda.jlbl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   
   ![Snake animation](https://github.com/lucaslacerdaa/lucaslacerdaa/blob/output/github-contribution-grid-snake.svg)
